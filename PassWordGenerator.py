@@ -18,7 +18,7 @@ if ( x == "yes"):
       
        
 
-
+# in for i range if we take a variable it will return value none pls fix it
    
    print('Pass Generated :')
    for i in range(j):
